@@ -1,6 +1,6 @@
-# U-GrNet
+# UGMNet
 
-1. This is a matlab implementation of our article.
+1. This is a matlab implementation of our article "U-shaped Grassmann manifold network with metric learning for visual classification".
 
 2. Since our implementation is based on the source code of GrNet and U-spdnet, we would like to express our sincere thanks to the published official code of [1][2].
 
